@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594234918457,
+  "timestamp": 1594235649561,
   "index": "/ttrpg/index.html",
   "assetGroups": [
     {
@@ -45,7 +45,7 @@
     "/ttrpg/assets/icons/favicon-16x16.png": "39f7228a65e228a1ae0799551cc467103850bc29",
     "/ttrpg/assets/icons/favicon-32x32.png": "b28ca6c4376332b9e6961b4951eeb441d1a8936c",
     "/ttrpg/assets/icons/favicon.ico": "d5cdf0a482c327e98fbfba9a4838fd14bc9f5ed0",
-    "/ttrpg/index.html": "7016622fa5175cda3529ccf9fbec7d06d226fbc8",
+    "/ttrpg/index.html": "445c8337ad8e13bd754d77a1b530d7873eb7a64b",
     "/ttrpg/main-es2015.bf9107c1a883b380b21c.js": "4226216d24dc5d6b9ad3e2c1cae654f526a48f71",
     "/ttrpg/main-es5.bf9107c1a883b380b21c.js": "3a4e010b4b17195839623918c7bf77aeb1908bf1",
     "/ttrpg/manifest.webmanifest": "d304bf7ae510ad457635620e5a00da55223005e4",
