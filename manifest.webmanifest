@@ -1,9 +1,9 @@
 {
-  "name": "ttrpg",
-  "short_name": "ttrpg",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
-  "display": "standalone",
+  "name": "WARDEN_OS: Mothership Generator",
+  "short_name": "WARDENOS",
+  "theme_color": "#ff0066",
+  "background_color": "#ff0066",
+  "display": "fullscreen",
   "scope": "./",
   "start_url": "./",
   "icons": [
