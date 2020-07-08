@@ -1,0 +1,76 @@
+{
+  "configVersion": 1,
+  "timestamp": 1594234918457,
+  "index": "/ttrpg/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/ttrpg/index.html",
+        "/ttrpg/main-es2015.bf9107c1a883b380b21c.js",
+        "/ttrpg/main-es5.bf9107c1a883b380b21c.js",
+        "/ttrpg/manifest.webmanifest",
+        "/ttrpg/polyfills-es2015.5b10b8fd823b6392f1fd.js",
+        "/ttrpg/polyfills-es5.3e8196928d184a6e5319.js",
+        "/ttrpg/runtime-es2015.c5fa8325f89fc516600b.js",
+        "/ttrpg/runtime-es5.c5fa8325f89fc516600b.js",
+        "/ttrpg/styles.4010d6b9fdc9c5ea407d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/ttrpg/assets/_variables.scss",
+        "/ttrpg/assets/icons/android-chrome-192x192.png",
+        "/ttrpg/assets/icons/android-chrome-512x512.png",
+        "/ttrpg/assets/icons/apple-touch-icon.png",
+        "/ttrpg/assets/icons/favicon-16x16.png",
+        "/ttrpg/assets/icons/favicon-32x32.png",
+        "/ttrpg/assets/icons/favicon.ico"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ttrpg/assets/_variables.scss": "653d14ea2b115aefc2e209e7d7c27fb9ffbf4640",
+    "/ttrpg/assets/icons/android-chrome-192x192.png": "a3acc7f4093ded78303a89bf59f81bec293e9427",
+    "/ttrpg/assets/icons/android-chrome-512x512.png": "91bc60886da39e9e5403a6a733287fa59c6f08d1",
+    "/ttrpg/assets/icons/apple-touch-icon.png": "2e04be57fdde3c19309c78c4890232acc76d57d1",
+    "/ttrpg/assets/icons/favicon-16x16.png": "39f7228a65e228a1ae0799551cc467103850bc29",
+    "/ttrpg/assets/icons/favicon-32x32.png": "b28ca6c4376332b9e6961b4951eeb441d1a8936c",
+    "/ttrpg/assets/icons/favicon.ico": "d5cdf0a482c327e98fbfba9a4838fd14bc9f5ed0",
+    "/ttrpg/index.html": "7016622fa5175cda3529ccf9fbec7d06d226fbc8",
+    "/ttrpg/main-es2015.bf9107c1a883b380b21c.js": "4226216d24dc5d6b9ad3e2c1cae654f526a48f71",
+    "/ttrpg/main-es5.bf9107c1a883b380b21c.js": "3a4e010b4b17195839623918c7bf77aeb1908bf1",
+    "/ttrpg/manifest.webmanifest": "d304bf7ae510ad457635620e5a00da55223005e4",
+    "/ttrpg/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "/ttrpg/polyfills-es5.3e8196928d184a6e5319.js": "29c3227e54cf420fa789aa877c2e4194ffd959c7",
+    "/ttrpg/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ttrpg/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ttrpg/styles.4010d6b9fdc9c5ea407d.css": "4332ac92d82839f63388c76733a2616cb50cb958"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
