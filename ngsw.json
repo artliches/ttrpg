@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595026098537,
+  "timestamp": 1595367144908,
   "index": "/ttrpg/index.html",
   "assetGroups": [
     {
@@ -9,14 +9,14 @@
       "updateMode": "prefetch",
       "urls": [
         "/ttrpg/index.html",
-        "/ttrpg/main-es2015.9c01144a2deb14a0e05d.js",
-        "/ttrpg/main-es5.9c01144a2deb14a0e05d.js",
+        "/ttrpg/main-es2015.f28b9b107869e87855db.js",
+        "/ttrpg/main-es5.f28b9b107869e87855db.js",
         "/ttrpg/manifest.webmanifest",
         "/ttrpg/polyfills-es2015.5b10b8fd823b6392f1fd.js",
         "/ttrpg/polyfills-es5.3e8196928d184a6e5319.js",
         "/ttrpg/runtime-es2015.c5fa8325f89fc516600b.js",
         "/ttrpg/runtime-es5.c5fa8325f89fc516600b.js",
-        "/ttrpg/styles.ad83c60497d4888556a2.css"
+        "/ttrpg/styles.78dd43908f62108df1a3.css"
       ],
       "patterns": []
     },
@@ -45,15 +45,15 @@
     "/ttrpg/assets/icons/favicon-16x16.png": "39f7228a65e228a1ae0799551cc467103850bc29",
     "/ttrpg/assets/icons/favicon-32x32.png": "b28ca6c4376332b9e6961b4951eeb441d1a8936c",
     "/ttrpg/assets/icons/favicon.ico": "d5cdf0a482c327e98fbfba9a4838fd14bc9f5ed0",
-    "/ttrpg/index.html": "ce380b216cb1cc72b494051afbbf973152d9fafc",
-    "/ttrpg/main-es2015.9c01144a2deb14a0e05d.js": "0bed403c98f41a3155561517e5073df79682eb69",
-    "/ttrpg/main-es5.9c01144a2deb14a0e05d.js": "670700d9063b4d7c6b439bb9b3ec08d254149588",
+    "/ttrpg/index.html": "f305f2832ca87893b099e35b7e61705def23e2c7",
+    "/ttrpg/main-es2015.f28b9b107869e87855db.js": "ec1f0847e08ed8742795856b6f448b2225c37eda",
+    "/ttrpg/main-es5.f28b9b107869e87855db.js": "7dec64885e8ba223a0bb96b78915d4819f049f1a",
     "/ttrpg/manifest.webmanifest": "b1873e7a7170ff9c3c602dabe2d075d98da54275",
     "/ttrpg/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "/ttrpg/polyfills-es5.3e8196928d184a6e5319.js": "29c3227e54cf420fa789aa877c2e4194ffd959c7",
     "/ttrpg/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/ttrpg/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/ttrpg/styles.ad83c60497d4888556a2.css": "e473bdb2486322311f8f0514d3dc5a378a573a2e"
+    "/ttrpg/styles.78dd43908f62108df1a3.css": "4db61ea4b6c1a952b93aac86d926fe9c9abf1625"
   },
   "navigationUrls": [
     {
