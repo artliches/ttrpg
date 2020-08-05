@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595367144908,
+  "timestamp": 1596649560948,
   "index": "/ttrpg/index.html",
   "assetGroups": [
     {
@@ -9,13 +9,13 @@
       "updateMode": "prefetch",
       "urls": [
         "/ttrpg/index.html",
-        "/ttrpg/main-es2015.f28b9b107869e87855db.js",
-        "/ttrpg/main-es5.f28b9b107869e87855db.js",
+        "/ttrpg/main-es2015.23e99a9be0b62efe7b9f.js",
+        "/ttrpg/main-es5.23e99a9be0b62efe7b9f.js",
         "/ttrpg/manifest.webmanifest",
-        "/ttrpg/polyfills-es2015.5b10b8fd823b6392f1fd.js",
-        "/ttrpg/polyfills-es5.3e8196928d184a6e5319.js",
-        "/ttrpg/runtime-es2015.c5fa8325f89fc516600b.js",
-        "/ttrpg/runtime-es5.c5fa8325f89fc516600b.js",
+        "/ttrpg/polyfills-es2015.ffa9bb4e015925544f91.js",
+        "/ttrpg/polyfills-es5.0290b245fbcca09184ac.js",
+        "/ttrpg/runtime-es2015.cdfb0ddb511f65fdc0a0.js",
+        "/ttrpg/runtime-es5.cdfb0ddb511f65fdc0a0.js",
         "/ttrpg/styles.78dd43908f62108df1a3.css"
       ],
       "patterns": []
@@ -45,14 +45,14 @@
     "/ttrpg/assets/icons/favicon-16x16.png": "39f7228a65e228a1ae0799551cc467103850bc29",
     "/ttrpg/assets/icons/favicon-32x32.png": "b28ca6c4376332b9e6961b4951eeb441d1a8936c",
     "/ttrpg/assets/icons/favicon.ico": "d5cdf0a482c327e98fbfba9a4838fd14bc9f5ed0",
-    "/ttrpg/index.html": "f305f2832ca87893b099e35b7e61705def23e2c7",
-    "/ttrpg/main-es2015.f28b9b107869e87855db.js": "ec1f0847e08ed8742795856b6f448b2225c37eda",
-    "/ttrpg/main-es5.f28b9b107869e87855db.js": "7dec64885e8ba223a0bb96b78915d4819f049f1a",
+    "/ttrpg/index.html": "32edb02c682d19001bb9525bba098be9fbc9bbfa",
+    "/ttrpg/main-es2015.23e99a9be0b62efe7b9f.js": "6308ab0f7fbc57ec7637ea60d6953ab9506f6d3e",
+    "/ttrpg/main-es5.23e99a9be0b62efe7b9f.js": "6852d2ab4ddaecc0c8968572e070e087ad059e8c",
     "/ttrpg/manifest.webmanifest": "b1873e7a7170ff9c3c602dabe2d075d98da54275",
-    "/ttrpg/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
-    "/ttrpg/polyfills-es5.3e8196928d184a6e5319.js": "29c3227e54cf420fa789aa877c2e4194ffd959c7",
-    "/ttrpg/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/ttrpg/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ttrpg/polyfills-es2015.ffa9bb4e015925544f91.js": "79b2ff5ba292ae9e56f0b43982b9e76d9ddcf285",
+    "/ttrpg/polyfills-es5.0290b245fbcca09184ac.js": "a7bfe75cfe39caaf5bc4c64b35dd9f1f0918a25f",
+    "/ttrpg/runtime-es2015.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ttrpg/runtime-es5.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/ttrpg/styles.78dd43908f62108df1a3.css": "4db61ea4b6c1a952b93aac86d926fe9c9abf1625"
   },
   "navigationUrls": [
